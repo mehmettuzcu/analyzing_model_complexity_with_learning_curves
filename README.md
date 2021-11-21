@@ -2,7 +2,7 @@
 
 When we work on machine learning models, we expect model success to be high.
 92% of these installed models, etc. guessing correctly with odds may sound good.
-These success rates can be misleading for us. In this article, I will discuss the model complexity issue in order to prevent over-learning.
+These success rates can be misleading for us. In this article, I will discuss the model complexity issue in order to prevent overfitting.
 
 ## Purpose: ## 
 
