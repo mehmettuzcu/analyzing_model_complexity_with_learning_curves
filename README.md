@@ -9,3 +9,7 @@ These success rates can be misleading for us. In this article, I will discuss th
 We will examine the analysis of model complexity with learning curves through an application.
 I used Titanic dataset in this application. The dataset contains information about the people involved in the Titanic shipwreck.
 In this project, I tried to estimate the probability of survival of people whose characteristics are given.
+
+* If you want to examine the dataset, you can access it from the link below.
+
+https://www.kaggle.com/c/titanic/data
